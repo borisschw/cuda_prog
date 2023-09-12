@@ -1,0 +1,11 @@
+.vscode
+build/
+bin/
+
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+
